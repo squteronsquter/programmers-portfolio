@@ -14,7 +14,7 @@
 
 `npm run build`
 
-### Copy the contents of the generated dist directory to your hosting server and run
+### Copy the contents of the generated dist directory to your hosting server and run the index.html file in the browser
 
 Happy coding
 
