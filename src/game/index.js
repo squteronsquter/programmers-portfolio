@@ -12,6 +12,5 @@ export default () => {
     num = getNum();
   }
   // if success
-  // success();
   success(getAttemptsCount());
 };
