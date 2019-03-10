@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "description": "Portfolio sandbox projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "npm run build && node dist/main.js"
+  },
+  "keywords": [
+    "programmer",
+    "portfolio"
+  ],
+  "author": "Gray Monk",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
