@@ -23,14 +23,3 @@ export default () => {
   // if success
   success(getAttemptsCount());
 };
-
-// const obj = {
-//   foo: 'abc',
-//   bar: 'def',
-//   baz: 'ghi'
-// };
-// const { foo, bar, baz } = obj;
-
-// alert(foo);
-// alert(bar);
-// alert(baz);
